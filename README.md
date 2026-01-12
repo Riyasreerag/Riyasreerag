@@ -72,7 +72,7 @@ I’m a cybersecurity enthusiast with experience in SIEM, threat hunting, vulner
 
 | **Project**      | **Description**                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| **[Project 1](https://github.com/)**    | Short Description |
+| **[Project 1](https://github.com/Riyasreerag/Sophos-Cybersecurity-Project-Portfolio/)**    |Sophos Endpoint & Firewall Security Lab |
 | **[Project 2](https://github.com/)**    | Short Description |
 | **[Project 3](https://github.com/)**    | Short Description | 
 
