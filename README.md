@@ -11,11 +11,12 @@ I’m a cybersecurity enthusiast with experience in SIEM, threat hunting, vulner
   <summary>More about me</summary>
 
 ## 🔐 What I Do
-- SIEM monitoring (Splunk, Wazuh)
+- SIEM monitoring (Sumologic)
 - Threat hunting & PCAP analysis
-- Vulnerability scanning (Nmap, Nessus, OpenVAS)
+- Vulnerability scanning (Nmap, Nessus)
 - Incident response & documentation
-- Endpoint security (Intune, JAMF, EDR)
+- Endpoint security (Intune, JAMF, EDR,Sophos)
+- Firwall (pfsense)
 - Identity & access management (Azure AD, O365)
 
 </details>
